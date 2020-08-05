@@ -32,7 +32,7 @@
 ---
 
 <img align="left" alt="drinkable's Github Stats" src="https://github-readme-stats.vercel.app/api?username=drinkable&show_icons=true&hide_border=true" />
-[![Jugal's github stats](https://github-readme-stats.vercel.app/api?username=drinkable)](https://github.com/anuraghazra/github-readme-stats)
+[![Jugal's github stats](https://github-readme-stats.vercel.app/api?username=drinkable)](https://github.com/anuraghazra/github-readme-stats)]
 
 ### Connect with me:
 
