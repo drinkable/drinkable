@@ -1,6 +1,6 @@
 # Heyo, I'm [Jugal][website] 👋
 
-## I'm studing to become a software engineer!
+## I'm studying to become a software engineer!
 - 🔭 I’m currently working on picking up Python
 - 🌱 I’m currently learning Data Structures & Algorithims
 - 🥅 2020 Goals: Secure the fundamentals of software development
