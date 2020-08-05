@@ -1,5 +1,7 @@
 # Heyo, I'm [Jugal][website] 👋
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+
 ## I'm studying to become a software engineer!
 - 🔭 I’m currently working on picking up Python
 - 🌱 I’m currently learning Data Structures & Algorithims
