@@ -1,6 +1,6 @@
 # Heyo, I'm [Jugal][website] 👋
 
-![HitCount](http://hits.dwyl.com/drinkable.svg)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=drinkable" alt="drinkable" /> </p>
 
 ## I'm studying to become a software engineer!
 - 🔭 I’m currently working on picking up Python
