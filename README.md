@@ -6,8 +6,6 @@
 - 🥅 2020 Goals: Secure the fundamentals of software development
 - ⚡ Fun fact: I love to bike and garden
 
-<br />
-<br />
 
 ### Languages and Tools:
 
