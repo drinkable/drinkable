@@ -1,6 +1,6 @@
 # Heyo, I'm [Jugal][website] 👋
 
-<img src="https://visitor-badge.glitch.me/badge?page_id=drinkable.drinkable" alt="visitor badge"/>
+![HitCount](http://hits.dwyl.com/drinkable/drinkable.svg)
 
 ## I'm studying to become a software engineer!
 - 🔭 I’m currently working on picking up Python
