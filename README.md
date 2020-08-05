@@ -1,6 +1,6 @@
 # Heyo, I'm [Jugal][website] 👋
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=drinkable.drinkable)
 
 ## I'm studying to become a software engineer!
 - 🔭 I’m currently working on picking up Python
