@@ -1,4 +1,4 @@
-### Heyo, I'm [Jugal][website] 👋
+# Heyo, I'm [Jugal][website] 👋
 
 ## I'm studing to become a software engineer!
 - 🔭 I’m currently working on a [VS Code Course][website]!
