@@ -1,11 +1,13 @@
 # Heyo, I'm [Jugal][website] 👋
 
 ## I'm studing to become a software engineer!
-- 🔭 I’m currently working on a [VS Code Course][website]!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- 🔭 I’m currently working on picking up Python
+- 🌱 I’m currently learning Data Structures & Algorithims
+- 🥅 2020 Goals: Secure the fundamentals of software development
+- ⚡ Fun fact: I love to bike and garden
+
+<br />
+<br />
 
 ### Languages and Tools:
 
