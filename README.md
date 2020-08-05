@@ -29,7 +29,7 @@
 
 <img align="left" alt="drinkable's Github Stats" src="https://github-readme-stats.vercel.app/api?username=drinkable&count_private=true&show_icons=true&hide_border=true" />
 
-<img align="right" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drinkable" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [website]: https://jcodes.ml
 [linkedin]: https://linkedin.com/in/jugal-amin
