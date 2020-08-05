@@ -3,6 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=drinkable" alt="drinkable" /> </p>
 
 ## I'm studying to become a software engineer!
+
 - 🔭 I’m working on picking up Python
 - 🌱 Currently learning Data Structures & Algorithims
 - 🥅 2020 Goals: Secure the fundamentals of software development
@@ -11,9 +12,19 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<!-- ICONS FROM: https://www.vectorlogo.zone/ -->
+
+<img align="left" alt="Java" width="26px" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" />
+
+<img align="left" alt="Python" width="26px" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" />
+
+<img align="left" alt="Rust" width="26px" src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg" />
+
+<img align="left" alt="Git" width="26px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
+
+<img align="left" alt="GitHub" width="26px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" />
+
+<img align="left" alt="Visual Studio Code" width="26px" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" />
 
 <br />
 
@@ -26,7 +37,6 @@
 <br />
 
 ---
-
 
 <img align="left" alt="drinkable's Github Stats" src="https://github-readme-stats.vercel.app/api?username=drinkable&count_private=true&show_icons=true&hide_border=true" />
 
