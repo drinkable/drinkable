@@ -18,7 +18,7 @@
 
 <img align="left" alt="Python" width="26px" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" />
 
-<img align="left" alt="Rust" width="26px" src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg" />
+<!-- <img align="left" alt="Rust" width="26px" src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg" /> -->
 
 <img align="left" alt="Git" width="26px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
 
