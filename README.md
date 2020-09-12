@@ -10,7 +10,7 @@
 - ⚡ Fun fact: I love to bike and garden
 
 
-### Languages and Tools (more of a wishlist at the moment):
+### Languages and Tools:
 
 <!-- ICONS FROM: https://www.vectorlogo.zone/ -->
 
